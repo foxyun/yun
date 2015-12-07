@@ -1,0 +1,11 @@
+body{background-color: black;}
+.snowClass{position: absolute;color: #28B2CA;font-size: 25px;}
+.textClass{position: absolute;color: #080EBB;font-size: 30px;font-family: 华文行楷;}
+a:link,a:visited{text-decoration: none;color: #080EBB;}
+a:hover,a:active{text-decoration: underline;color: #8C0DCC;}
+.foxText{position: absolute;color: #0060FA;font-size: 40px;font-family: 华文行楷;}
+.audioDiv{text-align: center;}
+audio{opacity: 0.5;}
+audio:hover{opacity: 0.9;}
+.nameClass{position: absolute;color: #0049BF;font-size: 45px;font-family: 华文行楷;}
+.lyricClass{color: #0049BF;font-size: 40px;font-family: 华文行楷;margin-top: 70px;}
