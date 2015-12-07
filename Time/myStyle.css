@@ -1,0 +1,46 @@
+html{
+	height: 100%;
+}
+body{
+	filter: progid:DXImageTransform.Microsoft.gradient(startcolorstr=#2D9BEA,endcolorstr=#5BBBFF,gradientType=1); 
+	background:-webkit-linear-gradient(#2D9BEA, #5BBBFF);
+	background:-o-linear-gradient(#2D9BEA, #5BBBFF);
+	background:linear-gradient(#2D9BEA, #5BBBFF);	 
+	color: black;
+	font-family: 华文行楷;
+	margin-top: 5%;
+	font-size: 4.0em;
+	font-weight: bold;
+	/*height: 100%;*/
+}
+.divClass{
+	/*display: block;*/
+	display: inline;
+	border: 5px ridge #3EAFFF;
+	line-height: 2em;
+	padding: 0.2em;
+	/*background-color: #3EAFFF;*/
+	filter: progid:DXImageTransform.Microsoft.gradient(startcolorstr=#0095FF,endcolorstr=#3EAFFF,gradientType=1); 
+	background:-webkit-linear-gradient(#0095FF, #3EAFFF);
+	background:-o-linear-gradient(#0095FF, #3EAFFF);
+	background:linear-gradient(#0095FF, #3EAFFF);
+}
+.TimeDiv{
+	display: inline-block;
+	border: 5px ridge #3EAFFF;
+	text-align: center;
+	width: 1.1em;
+	height: 1.3em;
+	line-height: 1.5em;
+	padding: 0.2em;
+	/*background-color: #3EAFFF;*/
+	filter: progid:DXImageTransform.Microsoft.gradient(startcolorstr=#0095FF,endcolorstr=#3EAFFF,gradientType=1); 
+	background:-webkit-linear-gradient(#0095FF, #3EAFFF);
+	background:-o-linear-gradient(#0095FF, #3EAFFF);
+	background:linear-gradient(#0095FF, #3EAFFF);	
+}
+.spaceDiv{
+	margin-top: 1px;
+	opacity: 0;
+	font-size: 0.2em;
+}
